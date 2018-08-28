@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f9da6fb-0e67-4bca-b081-2d7f9207331b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20180815/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/20180815.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/Tools/httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/Tools/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/Tools/json-20180130.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/Tools/testng-6.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/src/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/src/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/src/getChinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20180815/src/getHTTPResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/WechatBind.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/Workbook1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/api/HttpsClientRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/api/HttpsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/api/JsonRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/api/JsonRequestHttps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/api/MobileApiTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/api/SSLClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/bean/Co.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/bean/ExcelUtilBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/BindQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/CustomerQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/GetToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/InfoCompletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/LoginAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/MobileCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/RunCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/TpCheck100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/TpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/cases/UnBind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/controller/ApiTestControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/dao/DbConenectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/excel/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/util/DbHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_Test_Java/src/main/util/ReadConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApplyForCreditCard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__com_jayway_restassured_json_path_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__com_jayway_restassured_rest_assured_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__com_jayway_restassured_rest_assured_common_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__com_jayway_restassured_xml_path_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_poi_poi_3_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_json_json_20090211.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_testng_testng_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoApiTest/qa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChanelWebService" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/GenerateRandomData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/GenerateRandomInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/TestBaidu4Axciom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/TestChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/TestFireFoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/TestIEDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/TestSpider4Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/base00Data/TestZhihu4Acxiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/baseUtil/BaseDBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IKEAauto2/src/main/java/ikeaKioskBasedonFunction/Test01DeleteDBdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IkeaSync" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jmeter/src/DynamicClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jmeter/src/NewDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jmeter/src/ShutdownClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KisokICCC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KisokMemberZone" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KisokMobile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kisok_IRW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Smart_Audience_Automation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/TestConfig/ServerConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/TestConfig/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/TestConfig/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/TestConfig/testNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/TesterAuto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/ApacheJMeter.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/IEDriverServer.64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/httpclient-4.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/httpclient-4.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/httpclient-cache-4.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/httpclient-win-4.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/httpcore-4.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/json-20180130.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/selenium-server-standalone-2.45.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/sqljdbc4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/testng-6.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/Tools/velocity-dep-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/SingletonTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/SingletonTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/SingletonTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/SingletonTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/Test03_HungryModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/Test04FullModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/Test05FullModuleSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/Test06FullModuleVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/DesignModule/TestConfigRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/GenerateRandomData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/GenerateRandomInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/TestBaidu4Axciom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/TestChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/TestFireFoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/TestIEDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/TestSpider4Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/base00Data/TestZhihu4Acxiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseAPI/ReadConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseAPI/getCityWeather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseAPI/getHTTPResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseAPI/getJSONValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseReport/DataBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseReport/GenerateReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseReport/ReportUnits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseReport/ReporterData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseReport/TestResultSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseReport/overview.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseUtil/BaseDBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseUtil/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseUtil/BrowserEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseUtil/LogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseUtil/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseUtil/ReadContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/baseUtil/SendEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaCouponManage/ChromeAddBindCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaCouponManage/ChromeAddWelcomeCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaCouponManage/CouponHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaCouponManage/TestCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test01DeleteDBdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test02Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test03RegisterCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test04UpdateInfoCN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test05UpdateCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test06PrintTempCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test07PrintCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonFunction/Test08PrintTempCardOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonPage/KioskAlertPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonPage/KioskHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonPage/KioskSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonPage/KioskSmsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonPage/RegisterNewMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskBasedonPage/UpdateSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome01Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome02CNRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome02ENRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome03CNUpdateInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome03ENUpdateInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome04ENPrintTempCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome04PrintTempCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaKioskChrome/Chrome05PrintCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaMobileBasedonFuction/Mobile02Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaMobileBasedonFuction/Mobile03UpdateInfoCN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaTestData/TestCouponData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaTestData/TestKioskData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaTestData/TestMobileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaTestData/TestOnlineData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/ikeaTestData/TestSamlandData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/testSuite/IKEA/KioskStoreBasedFunctionVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/testSuite/IKEA/KioskStoreBasedPageUpdateInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/testSuite/IKEA/Test20180807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/testSuite/IKEA/Test20180808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/src/com/testSuite/IKEA/Test20180814.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/Default suite/Default test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/Default suite/IKEAauto2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/Default suite/IKEAauto2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/Default suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/junitreports/TEST-main.java.testSuite.KioskStoreBasedFunctionVerify.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/junitreports/TEST-main.java.testSuite.TestCase20180806.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/junitreports/TEST-test.java.Test01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/junitreports/TEST-testSuite.KioskStoreVerify$IKEA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/junitreports/TEST-testSuite.TestCaseforPrintMemberCard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/junitreports/TEST-testSuite.TestCaseforUpdateInfo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/Default test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/IKEAauto2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterAuto/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI_auto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wechat_Webservice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercises" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenDemo_idea01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini-site" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webservice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat-ws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-853505212">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="54" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="119790716">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="classpath" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="3" />
+          <entry key="java" value="94" />
+          <entry key="jmx" value="1" />
+          <entry key="md" value="2" />
+          <entry key="properties" value="36" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Eclipse" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="JAVA" value="94" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="36" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="985" />
+          <entry key="md" value="33" />
+          <entry key="properties" value="194" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="985" />
+          <entry key="Markdown" value="33" />
+          <entry key="Properties" value="194" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Parent</find>
+      <find>parent</find>
+      <find>更新</find>
+      <find>修改</find>
+      <find>Don't use GUI</find>
+      <find>install</find>
+      <find>getQuotedDa</find>
+      <find>csvdataset</find>
+      <find>The text you just entered is not</find>
+      <find>readLine</find>
+      <find>boolean ignoreFirstLine</find>
+      <find>ignoreFirstLine</find>
+      <find>shareMode</find>
+      <find>Configure the csv</find>
+      <find>此工具为二次开发之后的工具，新增功能如下</find>
+      <find>displayName</find>
+      <find>CSVDataSetResources.properties</find>
+      <find>CSVDATA</find>
+      <find>.properties</find>
+      <find>#####</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>String linenum</replace>
+      <replace>-</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\jmeter4.0_src</dir>
+      <dir>D:\00M_IDEA_Project\jmeter4.0_src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../rest-client" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/assertions/SMIMEAssertion.java" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/NewDriver.java" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetResources.properties" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetBeanInfo.java" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSet.java" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetResources_es.properties" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/JMeter.java" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetResources_de.properties" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetResources_fr.properties" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetResources_pl.properties" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetResources_pt_BR.properties" />
+        <option value="$PROJECT_DIR$/src/components/org/apache/jmeter/config/CSVDataSetResources_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/util/JMeterVersion.java" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/JDateField.java" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/gui/GuiPackage.java" />
+        <option value="$PROJECT_DIR$/.classpath" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/util/SlowInputStream.java" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/swing/HtmlPane.java" />
+        <option value="$PROJECT_DIR$/src/core/org/apache/jmeter/services/FileServer.java" />
+        <option value="$PROJECT_DIR$/Jmeter.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1899" />
+    <option name="y" value="117" />
+    <option name="width" value="1694" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jmeter4.0_src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jmeter4.0_src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535439643363" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NewDriver">
+    <configuration name="NewDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.jmeter.NewDriver" />
+      <module name="jmeter" />
+      <option name="VM_PARAMETERS" value="-Djmeter.home=D:\00M_IDEA_Project\jmeter4.0_src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.jmeter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCssParser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jmeter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.jmeter.protocol.http.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apache.jmeter.protocol.http.parser" />
+      <option name="MAIN_CLASS_NAME" value="org.apache.jmeter.protocol.http.parser.TestCssParser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NewDriver" />
+      <item itemvalue="JUnit.TestCssParser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewDriver" />
+        <item itemvalue="JUnit.TestCssParser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f9da6fb-0e67-4bca-b081-2d7f9207331b" name="Default Changelist" comment="" />
+      <created>1535105436001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535105436001</updated>
+      <workItem from="1535105438718" duration="5846000" />
+      <workItem from="1535342554327" duration="2497000" />
+      <workItem from="1535351316592" duration="1133000" />
+      <workItem from="1535353870205" duration="21641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCssParser - 2018.08.28 at 10h 41m 07s.xml">
+      <configuration name="TestCssParser" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31117000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="28" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2903423" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34042552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.36836404" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.18704157" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/core/org/apache/jmeter/services/FileServer.java</url>
+          <line>358</line>
+          <properties class="org.apache.jmeter.services.FileServer" method="getParsedLine">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/JSR223TestElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/JsseSSLManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/LocaleChangeEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/TidyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/NamedObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1217">
+          <caret line="90" column="28" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/CustomX509TrustManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4794">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/PropertiesBasedPrefixResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/keystore/JmeterKeyStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3808">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/theme/darcula_theme.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1115" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/CheckBoxPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/EscapeDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/FileDialoger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="112" column="40" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/action/Load.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1241">
+          <caret line="86" column="13" lean-forward="true" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/FileListPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2162">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/FilePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/FilePanelEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1567">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/FocusRequester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/HeaderAsPropertyRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-717">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/HeaderAsPropertyRendererWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/HorizontalPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/IconToolbarBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/JDateField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2298">
+          <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/JMeterColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/MenuFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9472">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/MenuInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/MenuSeparatorInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/NumberFieldErrorListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/textarea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/TextAreaCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/TextAreaTableCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/TextBoxDialoger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/TristateCheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/TristateState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/util/VerticalPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/AbstractJMeterGuiComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3148">
+          <caret line="121" column="7" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/AbstractScopedJMeterGuiComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/ClearGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/GUIFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/GUIMenuSortOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/LocaleChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/util/SlowInputStream.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1989" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/gui/GuiPackage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/NewDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/services/FileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="28" column="59" lean-forward="true" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <folding>
+            <element signature="e#3475#3476#0" expanded="true" />
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#6610#6611#0" expanded="true" />
+            <element signature="e#6655#6656#0" expanded="true" />
+            <element signature="e#6699#6700#0" expanded="true" />
+            <element signature="e#6734#6735#0" expanded="true" />
+            <element signature="e#8036#8037#0" expanded="true" />
+            <element signature="e#8078#8079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jmeter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/org/apache/jmeter/swing/HtmlPane.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jmeter</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
