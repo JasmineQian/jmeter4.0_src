@@ -20,6 +20,7 @@ package org.apache.jmeter.config;
 
 import java.beans.PropertyDescriptor;
 
+
 import org.apache.jmeter.testbeans.BeanInfoSupport;
 import org.apache.jmeter.testbeans.gui.FileEditor;
 import org.apache.jmeter.testbeans.gui.TypeEditor;
@@ -32,7 +33,7 @@ public class CSVDataSetBeanInfo extends BeanInfoSupport {
     private static final String FILENAME = "filename";               //$NON-NLS-1$
     private static final String FILE_ENCODING = "fileEncoding";      //$NON-NLS-1$
     private static final String VARIABLE_NAMES = "variableNames";    //$NON-NLS-1$
-    private static final String IGNORE_FIRST_LINE = "ignoreFirstLine";    //$NON-NLS-1$
+    //private static final String IGNORE_FIRST_LINE = "ignoreFirstLine";    //$NON-NLS-1$
     private static final String DELIMITER = "delimiter";             //$NON-NLS-1$
     private static final String RECYCLE = "recycle";                 //$NON-NLS-1$
     private static final String STOPTHREAD = "stopThread";           //$NON-NLS-1$
@@ -58,7 +59,7 @@ public class CSVDataSetBeanInfo extends BeanInfoSupport {
 
         createPropertyGroup("csv_data",             //$NON-NLS-1$
                 new String[] { FILENAME, FILE_ENCODING, VARIABLE_NAMES,
-                        IGNORE_FIRST_LINE, DELIMITER, QUOTED_DATA,
+                        LINE_NUMBER, DELIMITER, QUOTED_DATA,
                         RECYCLE, STOPTHREAD, SHAREMODE });
 
         PropertyDescriptor p = property(FILENAME);
@@ -77,11 +78,13 @@ public class CSVDataSetBeanInfo extends BeanInfoSupport {
         p.setValue(DEFAULT, "");        //$NON-NLS-1$
         p.setValue(NOT_EXPRESSION, Boolean.TRUE);
 
-        p = property(IGNORE_FIRST_LINE);
-        p.setValue(NOT_UNDEFINED, Boolean.TRUE);
-        p.setValue(DEFAULT, Boolean.FALSE);
+        //p = property(IGNORE_FIRST_LINE);
+        //p.setValue(NOT_UNDEFINED, Boolean.TRUE);
+        //p.setValue(DEFAULT, Boolean.FALSE);
 
         //添加LINE_number的配置
+        //DEFAULT, Boolean.FALSE或者Boolean.TRUE，则在界面上显示下拉框，选择true或者false
+        //p.setValue(DEFAULT, "");则界面上显示的是一个文本框
         p = property(LINE_NUMBER);
         p.setValue(NOT_UNDEFINED, Boolean.TRUE);
         p.setValue(DEFAULT, "");

@@ -1,38 +1,42 @@
-2018-08-28 14:29:54,317 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
-2018-08-28 14:29:54,335 INFO o.a.j.JMeter: Loading user properties from: D:\00M_IDEA_Project\jmeter4.0_src\bin\user.properties
-2018-08-28 14:29:54,335 INFO o.a.j.JMeter: Loading system properties from: D:\00M_IDEA_Project\jmeter4.0_src\bin\system.properties
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: Version 6.0
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: java.version=1.8.0_172
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: os.name=Windows 10
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: os.arch=amd64
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: os.version=10.0
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: file.encoding=UTF-8
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: Max memory     =3786407936
-2018-08-28 14:29:54,346 INFO o.a.j.JMeter: Available Processors =8
-2018-08-28 14:29:54,349 INFO o.a.j.JMeter: Default Locale=English (United States)
-2018-08-28 14:29:54,349 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
-2018-08-28 14:29:54,349 INFO o.a.j.JMeter: JMeterHome=D:\00M_IDEA_Project\jmeter4.0_src
-2018-08-28 14:29:54,350 INFO o.a.j.JMeter: user.dir  =D:\00M_IDEA_Project\jmeter4.0_src
-2018-08-28 14:29:54,350 INFO o.a.j.JMeter: PWD       =D:\00M_IDEA_Project\jmeter4.0_src
-2018-08-28 14:29:54,351 INFO o.a.j.JMeter: IP: 10.201.10.53 Name: jasqia-7050 FullName: jasqia-7050.ap.Acxiom.net
-2018-08-28 14:29:54,499 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
-2018-08-28 14:29:54,510 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Darcula]
-2018-08-28 14:29:54,510 INFO o.a.j.JMeter: Setting LAF to: javax.swing.plaf.metal.MetalLookAndFeel
-2018-08-28 14:29:54,514 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2018-08-28 14:29:55,118 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
-2018-08-28 14:29:55,118 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
-2018-08-28 14:29:56,197 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2018-08-28 14:29:56,198 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2018-08-28 14:29:56,198 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2018-08-28 14:29:56,198 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2018-08-28 14:29:56,199 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2018-08-28 14:29:56,199 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2018-08-28 14:29:56,500 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
-2018-08-28 14:29:56,501 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\00M_IDEA_Project\jmeter4.0_src\bin\proxyserver.jks
-2018-08-28 14:29:56,611 INFO o.a.j.s.FileServer: Default base='D:\00M_IDEA_Project\jmeter4.0_src'
-2018-08-28 14:29:57,122 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2018-08-28 14:29:57,122 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
-2018-08-28 14:29:57,122 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2018-08-28 14:29:57,122 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-08-29 09:10:24,501 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2018-08-29 09:10:24,517 INFO o.a.j.JMeter: Loading user properties from: D:\00M_IDEA_Project\jmeter4.0_src\bin\user.properties
+2018-08-29 09:10:24,518 INFO o.a.j.JMeter: Loading system properties from: D:\00M_IDEA_Project\jmeter4.0_src\bin\system.properties
+2018-08-29 09:10:24,523 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2018-08-29 09:10:24,523 INFO o.a.j.JMeter: Version 6.0
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: java.version=1.8.0_172
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: os.name=Windows 10
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: os.arch=amd64
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: os.version=10.0
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: Max memory     =3786407936
+2018-08-29 09:10:24,524 INFO o.a.j.JMeter: Available Processors =8
+2018-08-29 09:10:24,527 INFO o.a.j.JMeter: Default Locale=English (United States)
+2018-08-29 09:10:24,527 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2018-08-29 09:10:24,527 INFO o.a.j.JMeter: JMeterHome=D:\00M_IDEA_Project\jmeter4.0_src
+2018-08-29 09:10:24,527 INFO o.a.j.JMeter: user.dir  =D:\00M_IDEA_Project\jmeter4.0_src
+2018-08-29 09:10:24,527 INFO o.a.j.JMeter: PWD       =D:\00M_IDEA_Project\jmeter4.0_src
+2018-08-29 09:10:24,529 INFO o.a.j.JMeter: IP: 10.201.10.53 Name: jasqia-7050 FullName: jasqia-7050.ap.Acxiom.net
+2018-08-29 09:10:24,687 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-08-29 09:10:24,699 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Darcula]
+2018-08-29 09:10:24,700 INFO o.a.j.JMeter: Setting LAF to: javax.swing.plaf.metal.MetalLookAndFeel
+2018-08-29 09:10:24,703 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-08-29 09:10:25,303 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-08-29 09:10:25,303 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-08-29 09:10:26,305 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-29 09:10:26,306 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-29 09:10:26,306 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-29 09:10:26,306 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-29 09:10:26,306 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-08-29 09:10:26,306 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-08-29 09:10:26,588 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-08-29 09:10:26,589 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\00M_IDEA_Project\jmeter4.0_src\bin\proxyserver.jks
+2018-08-29 09:10:26,688 INFO o.a.j.s.FileServer: Default base='D:\00M_IDEA_Project\jmeter4.0_src'
+2018-08-29 09:10:27,154 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-08-29 09:10:27,154 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2018-08-29 09:10:27,154 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-08-29 09:10:27,154 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-08-29 09:11:13,985 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2018-08-29 09:11:14,025 WARN o.a.j.g.t.JMeterTreeNode: getIcon(): Can't obtain GUI class from class org.apache.jmeter.config.CSVDataSet
+2018-08-29 09:11:36,845 INFO o.a.j.u.JMeterUtils: Setting Locale to en
+2018-08-29 09:11:36,876 WARN o.a.j.g.t.JMeterTreeNode: getIcon(): Can't obtain GUI class from class org.apache.jmeter.config.CSVDataSet

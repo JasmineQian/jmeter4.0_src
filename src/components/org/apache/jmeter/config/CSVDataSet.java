@@ -99,10 +99,6 @@ public class CSVDataSet extends ConfigTestElement
 
     private transient String shareMode;
 
-    private boolean firstLineIsNames = false;
-
-    private boolean ignoreFirstLine = false;
-
     private Object readResolve(){
         recycle = true;
         return this;
@@ -184,12 +180,12 @@ public class CSVDataSet extends ConfigTestElement
                 String header = server.reserveFile(fileName, getFileEncoding(), alias, true);
                 try {
                     vars = CSVSaveService.csvSplitString(header, delim.charAt(0));
-                    firstLineIsNames = true;
+                   // firstLineIsNames = true;
                 } catch (IOException e) {
                     throw new IllegalArgumentException("Could not split CSV header line from file:" + fileName,e);
                 }
             } else {
-                server.reserveFile(fileName, getFileEncoding(), alias, ignoreFirstLine);
+                server.reserveFile(fileName, getFileEncoding(), alias, false);
                 vars = JOrphanUtils.split(names, ","); // $NON-NLS-1$
             }
             trimVarNames(vars);
@@ -326,17 +322,5 @@ public class CSVDataSet extends ConfigTestElement
         this.shareMode = value;
     }
 
-    /**
-     * @return the ignoreFirstLine
-     */
-    public boolean isIgnoreFirstLine() {
-        return ignoreFirstLine;
-    }
 
-    /**
-     * @param ignoreFirstLine the ignoreFirstLine to set
-     */
-    public void setIgnoreFirstLine(boolean ignoreFirstLine) {
-        this.ignoreFirstLine = ignoreFirstLine;
-    }
 }
